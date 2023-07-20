@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @socratesfl
-- 🚀 Welcome to my GitHub profile! 🚀 
+- 🚀 Welcome to my GitHub profile! 🚀
+- 📫 How to reach me: socratesfleite@gmail.com
 
 - In this space, I share personal projects and contributions to open-source projects and love exploring different technologies.
 
